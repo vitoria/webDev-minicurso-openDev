@@ -14,7 +14,7 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
-- [Gabril Mareco](https://gabrielmbs.github.io/)
+- [Gabriel Mareco](https://gabrielmbs.github.io/)
 
 # Links Úteis
 
