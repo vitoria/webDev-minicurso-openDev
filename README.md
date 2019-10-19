@@ -9,4 +9,4 @@
 - [Mariana Dela Bianca](https://marianabianca.github.io)
 - [Robson](https://jrobsonjr.github.io/)
 - [Thayanne](https://thayannevls.github.io)
-- [Lucas](lucasfernandes.me)
+- [Lucas](https://lucasfernandes.me)
