@@ -14,6 +14,7 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
+- [Siuanny Barbosa](https://siuanny.github.io)
 
 # Links Úteis
 
