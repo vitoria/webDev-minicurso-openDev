@@ -14,6 +14,7 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
+- [Rodrigo Eloy](https://rodrigoeloy.github.io)
 
 # Links Úteis
 
