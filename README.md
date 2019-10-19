@@ -17,8 +17,8 @@
 
 # Links Úteis
 
-- https://www.w3schools.com/
-- https://www.codigofonte.com.br/artigos/principais-tags-de-html
+- [w3schools](https://www.w3schools.com/)
+- [Principais Tags de HTML](https://www.codigofonte.com.br/artigos/principais-tags-de-html)
 
 # Contribuidores
 
