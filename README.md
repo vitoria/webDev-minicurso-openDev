@@ -14,6 +14,7 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
+- [Lucas Barreto](https://lucasmfb.github.io/)
 
 # Links Úteis
 
