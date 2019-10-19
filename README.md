@@ -10,3 +10,8 @@
 - [Robson](https://jrobsonjr.github.io/)
 - [Thayanne](https://thayannevls.github.io)
 - [Lucas](https://lucasfernandes.me)
+
+# Links Úteis
+
+- https://www.w3schools.com/
+- https://www.codigofonte.com.br/artigos/principais-tags-de-html
