@@ -15,6 +15,7 @@
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
 - [José Igor](https://joseigorgomes.github.io/)
+- [Ana Beatriz Truta](https://beatriztruta.github.io/)
 
 # Links Úteis
 
