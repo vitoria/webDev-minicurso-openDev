@@ -15,6 +15,7 @@
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
 - [José Igor](https://joseigorgomes.github.io/)
+- [Arthur Cavalcante}(https://arthurcavalcant.github.io/)
 
 # Links Úteis
 
