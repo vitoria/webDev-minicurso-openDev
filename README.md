@@ -24,9 +24,9 @@
 - [Arthur Macena](https://arthurmacena.github.io/)
 - [Natalia Salvino Andre](https://natalia-sa.github.io/)
 - [José Igor](https://joseigorgomes.github.io/)
+- [Arthur Cavalcante](https://arthurcavalcant.github.io/)
 - [Ana Beatriz Truta](https://beatriztruta.github.io/)
 - [Andrielly](https://andriellyll.github.io)
-
 
 # Links Úteis
 
