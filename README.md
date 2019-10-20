@@ -14,6 +14,7 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
+- [Siuanny Barbosa](https://siuanny.github.io)
 - [Gabriel Mareco](https://gabrielmbs.github.io/)
 - [Izabella Ribeiro](http://izabri.github.io)
 - [Helen Cavalcanti](https://helenbc.github.io/)
