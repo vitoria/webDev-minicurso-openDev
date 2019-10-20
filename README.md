@@ -15,6 +15,14 @@
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
 - [Gabriel Mareco](https://gabrielmbs.github.io/)
+- [Izabella Ribeiro](http://izabri.github.io)
+- [Helen Cavalcanti](https://helenbc.github.io/)
+- [Lucas Barreto](https://lucasmfb.github.io/)
+- [Arthur Macena](https://arthurmacena.github.io/)
+- [Natalia Salvino Andre](https://natalia-sa.github.io/)
+- [José Igor](https://joseigorgomes.github.io/)
+- [Andrielly](https://andriellyll.github.io)
+
 
 # Links Úteis
 
