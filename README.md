@@ -28,6 +28,7 @@
 - [Arthur Cavalcante](https://arthurcavalcant.github.io/)
 - [Ana Beatriz Truta](https://beatriztruta.github.io/)
 - [Andrielly](https://andriellyll.github.io)
+- [Maria Eduarda](https://mariaeduardadeazevedo.github.io/)
 
 # Links Úteis
 
