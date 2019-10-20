@@ -14,6 +14,7 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
+- [Mirlla Marques](https://mirllamarques.github.io/)
 - [J. Guilherme Coelho](https://joseguilhermeoliveira.github.io/)
 - [Siuanny Barbosa](https://siuanny.github.io)
 - [Gabriel Mareco](https://gabrielmbs.github.io/)
